@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleApp1</string>
+    <string-array name="hp_array">
+        <item>Samsung</item>
+        <item>sdf</item>
+        <item>Samsung</item>
+        <item>Samsung</item>
+        <item>Samsung</item>
+        <item>Samsung</item>
+    </string-array>
+</resources>
